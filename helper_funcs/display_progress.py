@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Ns_AnoNymouS 
+# (c) ALLUKISHORE_OFFICIAL
 
 # the logging things
 import logging
