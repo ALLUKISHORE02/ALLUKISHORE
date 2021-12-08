@@ -88,8 +88,8 @@ async def donate(bot, update):
              reply_markup=InlineKeyboardMarkup(
              [
                [
-                 InlineKeyboardButton('Donate 💰', url='http://paypal.me/maheshmalekar')
-               ]
+                 InlineKeyboardButton('AlluKishore 💰', url='http://t.me/ALLUKISHORE_OFFICIAL')
+          
              ]
            )
           )
